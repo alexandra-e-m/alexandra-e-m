@@ -2,7 +2,7 @@
 
 👩‍💻 Master's degree in Electrical and Computer Engineering with specialization in machine learning <br>
 👩‍🎓 Studied at the University of Coimbra, Portugal<br>
-🎮 Developed a video game <br>
+🎮 Developed a video game [(https://alex-em.itch.io/asylum-escape)] 
 📚 Currently learning Unreal Engine
 
 
